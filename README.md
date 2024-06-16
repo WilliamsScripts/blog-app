@@ -14,7 +14,7 @@ MySQL or any other database supported by Laravel
 Clone the repository:
 
 ```sh
-git clone <repository_link>
+git clone https://github.com/WilliamsScripts/blog-app.git
 ```
 
 Install dependencies:
